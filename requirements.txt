@@ -1,0 +1,14 @@
+requests
+flask
+gevent
+beautifulsoup4
+ffmpeg-python
+ffmpy3
+opencv-python
+elasticsearch==6.4.0
+pymongo
+oss2
+json_tools
+pandas
+redis
+ray
