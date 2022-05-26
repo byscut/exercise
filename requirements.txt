@@ -11,4 +11,3 @@ oss2
 json_tools
 pandas
 redis
-ray
