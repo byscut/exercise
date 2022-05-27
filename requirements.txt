@@ -11,3 +11,8 @@ oss2
 json_tools
 pandas
 redis
+librosa
+pydub
+pyAudioAnalysis
+soundpy
+munch
